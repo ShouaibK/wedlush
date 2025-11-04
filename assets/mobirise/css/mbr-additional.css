@@ -1452,6 +1452,13 @@ a {
   padding: 0;
   margin: 0;
 }
+.cid-tLdYHD757A .cardTitle {
+  text-align: justify;
+}
+.cid-tLdYHD757A .list,
+.cid-tLdYHD757A .item-wrap {
+  text-align: justify;
+}
 .cid-tJS9NNcTLZ {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1478,7 +1485,7 @@ a {
 }
 .cid-tJS9NNcTLZ .social-row .soc-item a:hover .mbr-iconfont,
 .cid-tJS9NNcTLZ .social-row .soc-item a:focus .mbr-iconfont {
-  background-color: #f7f7f7;
+  background-color: #ffa600;
 }
 .cid-tJS9NNcTLZ .social-row .soc-item a .mbr-iconfont {
   width: 72px;
