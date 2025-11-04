@@ -73,11 +73,13 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "WedLush - An event management company",
+        "meta_descr": "Wedlush is an event management company, especially for wedding events, best event planners and caterers in rawalpindi / Islamabad.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/wedlush-horizontal.svg"
       },
       "components": [
         {
